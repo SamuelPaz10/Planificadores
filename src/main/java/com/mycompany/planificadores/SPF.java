@@ -75,6 +75,46 @@ public class SPF extends javax.swing.JFrame {
         Execute = new javax.swing.JButton();
         jButton1 = new javax.swing.JButton();
         Execute1 = new javax.swing.JButton();
+        lblName1 = new javax.swing.JLabel();
+        lblName2 = new javax.swing.JLabel();
+        lblName3 = new javax.swing.JLabel();
+        lblName4 = new javax.swing.JLabel();
+        lblName5 = new javax.swing.JLabel();
+        lblName6 = new javax.swing.JLabel();
+        lblName7 = new javax.swing.JLabel();
+        lblName8 = new javax.swing.JLabel();
+        lblName9 = new javax.swing.JLabel();
+        lblName10 = new javax.swing.JLabel();
+        lblName11 = new javax.swing.JLabel();
+        lblName12 = new javax.swing.JLabel();
+        lblName13 = new javax.swing.JLabel();
+        lblName14 = new javax.swing.JLabel();
+        lblName15 = new javax.swing.JLabel();
+        lblName16 = new javax.swing.JLabel();
+        lblName17 = new javax.swing.JLabel();
+        lblName18 = new javax.swing.JLabel();
+        lblName19 = new javax.swing.JLabel();
+        lblName20 = new javax.swing.JLabel();
+        lblTamanio1 = new javax.swing.JLabel();
+        lblTamanio2 = new javax.swing.JLabel();
+        lblTamanio3 = new javax.swing.JLabel();
+        lblTamanio4 = new javax.swing.JLabel();
+        lblTamanio5 = new javax.swing.JLabel();
+        lblTamanio6 = new javax.swing.JLabel();
+        lblTamanio7 = new javax.swing.JLabel();
+        lblTamanio8 = new javax.swing.JLabel();
+        lblTamanio9 = new javax.swing.JLabel();
+        lblTamanio10 = new javax.swing.JLabel();
+        lblTamanio11 = new javax.swing.JLabel();
+        lblTamanio12 = new javax.swing.JLabel();
+        lblTamanio13 = new javax.swing.JLabel();
+        lblTamanio14 = new javax.swing.JLabel();
+        lblTamanio15 = new javax.swing.JLabel();
+        lblTamanio16 = new javax.swing.JLabel();
+        lblTamanio17 = new javax.swing.JLabel();
+        lblTamanio18 = new javax.swing.JLabel();
+        lblTamanio19 = new javax.swing.JLabel();
+        lblTamanio20 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -199,12 +239,238 @@ public class SPF extends javax.swing.JFrame {
         });
         getContentPane().add(Execute1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 220, -1, -1));
 
+        lblName1.setText("jLabel6");
+        getContentPane().add(lblName1, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 120, -1, -1));
+
+        lblName2.setText("jLabel6");
+        getContentPane().add(lblName2, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 140, -1, -1));
+
+        lblName3.setText("jLabel6");
+        getContentPane().add(lblName3, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 160, -1, -1));
+
+        lblName4.setText("jLabel6");
+        getContentPane().add(lblName4, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 180, -1, -1));
+
+        lblName5.setText("jLabel6");
+        getContentPane().add(lblName5, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 200, -1, -1));
+
+        lblName6.setText("jLabel6");
+        getContentPane().add(lblName6, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 220, -1, -1));
+
+        lblName7.setText("jLabel6");
+        getContentPane().add(lblName7, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 240, -1, -1));
+
+        lblName8.setText("jLabel6");
+        getContentPane().add(lblName8, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 260, -1, -1));
+
+        lblName9.setText("jLabel6");
+        getContentPane().add(lblName9, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 280, -1, -1));
+
+        lblName10.setText("jLabel6");
+        getContentPane().add(lblName10, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 300, -1, -1));
+
+        lblName11.setText("jLabel6");
+        getContentPane().add(lblName11, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 320, -1, -1));
+
+        lblName12.setText("jLabel6");
+        getContentPane().add(lblName12, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 340, -1, -1));
+
+        lblName13.setText("jLabel6");
+        getContentPane().add(lblName13, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 360, -1, -1));
+
+        lblName14.setText("jLabel6");
+        getContentPane().add(lblName14, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 380, -1, -1));
+
+        lblName15.setText("jLabel6");
+        getContentPane().add(lblName15, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 400, -1, -1));
+
+        lblName16.setText("jLabel6");
+        getContentPane().add(lblName16, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 420, -1, -1));
+
+        lblName17.setText("jLabel6");
+        getContentPane().add(lblName17, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 440, -1, -1));
+
+        lblName18.setText("jLabel6");
+        getContentPane().add(lblName18, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 460, -1, -1));
+
+        lblName19.setText("jLabel6");
+        getContentPane().add(lblName19, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 480, -1, -1));
+
+        lblName20.setText("jLabel6");
+        getContentPane().add(lblName20, new org.netbeans.lib.awtextra.AbsoluteConstraints(760, 500, -1, -1));
+        getContentPane().add(lblTamanio1, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 120, 50, 20));
+        getContentPane().add(lblTamanio2, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 140, 50, 20));
+        getContentPane().add(lblTamanio3, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 160, 50, 20));
+        getContentPane().add(lblTamanio4, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 180, 50, 20));
+        getContentPane().add(lblTamanio5, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 200, 50, 20));
+        getContentPane().add(lblTamanio6, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 220, 50, 20));
+        getContentPane().add(lblTamanio7, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 240, 50, 20));
+        getContentPane().add(lblTamanio8, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 260, 50, 20));
+        getContentPane().add(lblTamanio9, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 280, 50, 20));
+        getContentPane().add(lblTamanio10, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 300, 50, 20));
+        getContentPane().add(lblTamanio11, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 320, 50, 20));
+        getContentPane().add(lblTamanio12, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 340, 50, 20));
+        getContentPane().add(lblTamanio13, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 360, 50, 20));
+        getContentPane().add(lblTamanio14, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 380, 50, 20));
+        getContentPane().add(lblTamanio15, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 400, 50, 20));
+        getContentPane().add(lblTamanio16, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 420, 50, 20));
+        getContentPane().add(lblTamanio17, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 440, 50, 20));
+        getContentPane().add(lblTamanio18, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 460, 50, 20));
+        getContentPane().add(lblTamanio19, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 480, 50, 20));
+        getContentPane().add(lblTamanio20, new org.netbeans.lib.awtextra.AbsoluteConstraints(810, 500, 50, 20));
+
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnSaveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSaveActionPerformed
 
-        if (Integer.parseInt(txtSize.getText()) > 1) {
+        if (lblTamanio1.getText() == "") {
+            lblTamanio1.setText(txtSize.getText());
+            lblName1.setText(txtName.getText());
+
+        } else if (lblTamanio2.getText() == "") {
+            lblTamanio2.setText(txtSize.getText());
+            lblName2.setText(txtName.getText());
+
+        } else if (lblTamanio3.getText() == "") {
+            lblTamanio3.setText(txtSize.getText());
+            lblName3.setText(txtName.getText());
+
+        } else if (lblTamanio4.getText() == "") {
+            lblTamanio4.setText(txtSize.getText());
+            lblName4.setText(txtName.getText());
+
+        } else if (lblTamanio5.getText() == "") {
+            lblTamanio5.setText(txtSize.getText());
+            lblName5.setText(txtName.getText());
+
+        } else if (lblTamanio6.getText() == "") {
+            lblTamanio6.setText(txtSize.getText());
+            lblName6.setText(txtName.getText());
+
+        } else if (lblTamanio7.getText() == "") {
+            lblTamanio7.setText(txtSize.getText());
+            lblName7.setText(txtName.getText());
+
+        } else if (lblTamanio8.getText() == "") {
+            lblTamanio8.setText(txtSize.getText());
+            lblName8.setText(txtName.getText());
+
+        } else if (lblTamanio9.getText() == "") {
+            lblTamanio9.setText(txtSize.getText());
+            lblName9.setText(txtName.getText());
+
+        } else if (lblTamanio10.getText() == "") {
+            lblTamanio10.setText(txtSize.getText());
+            lblName10.setText(txtName.getText());
+
+        } else if (lblTamanio11.getText() == "") {
+            lblTamanio11.setText(txtSize.getText());
+            lblName11.setText(txtName.getText());
+
+        } else if (lblTamanio12.getText() == "") {
+            lblTamanio12.setText(txtSize.getText());
+            lblName12.setText(txtName.getText());
+
+        } else if (lblTamanio13.getText() == "") {
+            lblTamanio13.setText(txtSize.getText());
+            lblName13.setText(txtName.getText());
+
+        } else if (lblTamanio14.getText() == "") {
+            lblTamanio14.setText(txtSize.getText());
+            lblName14.setText(txtName.getText());
+
+        } else if (lblTamanio15.getText() == "") {
+            lblTamanio15.setText(txtSize.getText());
+            lblName15.setText(txtName.getText());
+
+        } else if (lblTamanio16.getText() == "") {
+            lblTamanio16.setText(txtSize.getText());
+            lblName16.setText(txtName.getText());
+
+        } else if (lblTamanio17.getText() == "") {
+            lblTamanio17.setText(txtSize.getText());
+            lblName17.setText(txtName.getText());
+
+        } else if (lblTamanio18.getText() == "") {
+            lblTamanio18.setText(txtSize.getText());
+            lblName18.setText(txtName.getText());
+
+        } else if (lblTamanio19.getText() == "") {
+            lblTamanio19.setText(txtSize.getText());
+            lblName19.setText(txtName.getText());
+
+        } else if (lblTamanio20.getText() == "") {
+            lblTamanio20.setText(txtSize.getText());
+            lblName20.setText(txtName.getText());
+        }
+
+        if (lblTamanio1.getText() == "") {
+            model.addRow(new Object[]{
+                lblName1.getText(),
+                lblTamanio1.getText()
+            });
+        }
+        llName.addLast(lblName1.getText());
+        llSize.addLast(Integer.parseInt(lblTamanio1.getText()));
+
+        if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio3.getText())) {
+            if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio4.getText())) {
+                if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio5.getText())) {
+                    if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio6.getText())) {
+                        if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio7.getText())) {
+                            if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio8.getText())) {
+                                if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio9.getText())) {
+                                    if (Integer.parseInt(lblTamanio2.getText()) < Integer.parseInt(lblTamanio10.getText())) {
+                                        if (Integer.parseInt(lblTamanio1.getText()) >= 1) {
+                                            model.addRow(new Object[]{
+                                                lblName1.getText(),
+                                                lblTamanio1.getText()
+                                            });
+                                            llName.addLast(lblName1.getText());
+                                            llSize.addLast(Integer.parseInt(lblTamanio1.getText()));
+                                        } else {
+                                            JOptionPane.showMessageDialog(null,
+                                                    "Process Size invalid", "Error",
+                                                    JOptionPane.ERROR_MESSAGE);
+                                        }
+                                        if (Integer.parseInt(lblTamanio3.getText()) < Integer.parseInt(lblTamanio4.getText())) {
+                                            if (Integer.parseInt(lblTamanio3.getText()) < Integer.parseInt(lblTamanio5.getText())) {
+                                                if (Integer.parseInt(lblTamanio3.getText()) < Integer.parseInt(lblTamanio6.getText())) {
+                                                    if (Integer.parseInt(lblTamanio3.getText()) < Integer.parseInt(lblTamanio7.getText())) {
+                                                        if (Integer.parseInt(lblTamanio3.getText()) < Integer.parseInt(lblTamanio8.getText())) {
+                                                            if (Integer.parseInt(lblTamanio3.getText()) < Integer.parseInt(lblTamanio9.getText())) {
+                                                                if (Integer.parseInt(lblTamanio3.getText()) < Integer.parseInt(lblTamanio10.getText())) {
+                                                                    if (Integer.parseInt(lblTamanio3.getText()) >= 1) {
+                                                                        model.addRow(new Object[]{
+                                                                            lblName1.getText(),
+                                                                            lblTamanio1.getText()
+                                                                        });
+                                                                        llName.addLast(lblName1.getText());
+                                                                        llSize.addLast(Integer.parseInt(lblTamanio1.getText()));
+                                                                    } else {
+                                                                        JOptionPane.showMessageDialog(null,
+                                                                                "Process Size invalid", "Error",
+                                                                                JOptionPane.ERROR_MESSAGE);
+                                                                    }
+
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        /*if (Integer.parseInt(txtSize.getText()) >= 1) {
             model.addRow(new Object[]{
                 txtName.getText(),
                 txtSize.getText()
@@ -216,7 +482,7 @@ public class SPF extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null,
                     "Process Size invalid", "Error",
                     JOptionPane.ERROR_MESSAGE);
-        }
+        }*/
 
     }//GEN-LAST:event_btnSaveActionPerformed
 
@@ -280,10 +546,10 @@ public class SPF extends javax.swing.JFrame {
         });
         while (j < model.getRowCount()) {
             //int temp = llSize.get();
-            if (llSize.equals(j+1)){
+            if (llSize.equals(j + 1)) {
                 System.out.println(llName.getFirst());
             }
-            
+
             model2.addRow(new Object[]{
                 llName.getFirst()
             });
@@ -352,6 +618,46 @@ public class SPF extends javax.swing.JFrame {
     private javax.swing.JSeparator jSeparator2;
     private javax.swing.JTable jTable1;
     private javax.swing.JTable jTable2;
+    private javax.swing.JLabel lblName1;
+    private javax.swing.JLabel lblName10;
+    private javax.swing.JLabel lblName11;
+    private javax.swing.JLabel lblName12;
+    private javax.swing.JLabel lblName13;
+    private javax.swing.JLabel lblName14;
+    private javax.swing.JLabel lblName15;
+    private javax.swing.JLabel lblName16;
+    private javax.swing.JLabel lblName17;
+    private javax.swing.JLabel lblName18;
+    private javax.swing.JLabel lblName19;
+    private javax.swing.JLabel lblName2;
+    private javax.swing.JLabel lblName20;
+    private javax.swing.JLabel lblName3;
+    private javax.swing.JLabel lblName4;
+    private javax.swing.JLabel lblName5;
+    private javax.swing.JLabel lblName6;
+    private javax.swing.JLabel lblName7;
+    private javax.swing.JLabel lblName8;
+    private javax.swing.JLabel lblName9;
+    private javax.swing.JLabel lblTamanio1;
+    private javax.swing.JLabel lblTamanio10;
+    private javax.swing.JLabel lblTamanio11;
+    private javax.swing.JLabel lblTamanio12;
+    private javax.swing.JLabel lblTamanio13;
+    private javax.swing.JLabel lblTamanio14;
+    private javax.swing.JLabel lblTamanio15;
+    private javax.swing.JLabel lblTamanio16;
+    private javax.swing.JLabel lblTamanio17;
+    private javax.swing.JLabel lblTamanio18;
+    private javax.swing.JLabel lblTamanio19;
+    private javax.swing.JLabel lblTamanio2;
+    private javax.swing.JLabel lblTamanio20;
+    private javax.swing.JLabel lblTamanio3;
+    private javax.swing.JLabel lblTamanio4;
+    private javax.swing.JLabel lblTamanio5;
+    private javax.swing.JLabel lblTamanio6;
+    private javax.swing.JLabel lblTamanio7;
+    private javax.swing.JLabel lblTamanio8;
+    private javax.swing.JLabel lblTamanio9;
     private javax.swing.JTextField txtMemory;
     private javax.swing.JTextField txtName;
     private javax.swing.JTextField txtSize;
